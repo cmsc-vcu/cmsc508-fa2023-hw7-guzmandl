@@ -86,7 +86,11 @@ INSERT INTO people (id, last_name, first_name, date_joined) VALUES
 (3, 'Person 3', 'Bob', '2023-02-01'),
 (4, 'Person 4', 'Eva', '2023-02-01'),
 (5, 'Person 5', 'Michael', '2023-02-01'),
-(6, 'Person 6', 'Sophia', '2023-02-01');
+(6, 'Person 6', 'Sophia', '2023-02-01'),
+(7, 'Person 7', 'Vani', '2023-02-01'),
+(8, 'Person 8', 'Jessie', '2023-02-01'),
+(9, 'Person 9', 'Emily', '2023-02-01'),
+(10, 'Person 10', 'Charles', '2023-02-01');
 
 
 # Section 6
