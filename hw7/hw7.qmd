@@ -12,7 +12,7 @@ format:
 
 Provides a crows foot diagram while accessing the data and specific queiers from the database.
 
-GITHUB URL:  <your URL goes here!>
+GITHUB URL:  https://github.com/cmsc-vcu/cmsc508-fa2023-hw7-guzmandl
 
 ```{python}
 #| eval: true
